@@ -29,6 +29,7 @@
 #text {
     margin: 50px 0px;
     color: #fff;
+    cursor: default;
 }
 
 #btn {
@@ -38,12 +39,16 @@
     border: none;
     border-radius: 5px;
     cursor: pointer;
+}
 
+#btn:hover {
+    background-color: #b1b1b1;
+    cursor: cell;
 }
 
 #contador {
-     margin: 50px 0px;
+    margin: 50px 0px;
     font-size: 48px;
     color: #fff;
-
+    cursor: default;
 }
