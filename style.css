@@ -52,3 +52,14 @@
     color: #fff;
     cursor: default;
 }
+
+#recompensa {
+    height: 350px;
+    font-size: 48px;
+    color: #fff;
+    cursor: default;
+}
+img {
+    height: 80%;
+    width: auto;
+}
