@@ -1,4 +1,3 @@
-
 let btn = 0;
 
 recuperar();
